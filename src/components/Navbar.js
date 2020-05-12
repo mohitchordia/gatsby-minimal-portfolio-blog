@@ -26,12 +26,12 @@ export class Navbar extends Component {
         >
           <Link to={'/'}>Home</Link>
           <Link to={'/portfolio'}>Portfolio</Link>
-          <Link to={'/journey'}>Journey</Link>
+          {/* <Link to={'/journey'}>Journey</Link> */}
           <a href={contactData.github} target="_new">
             Github
           </a>
           <Link to={'/contact'}>Contact</Link>
-          <Link to={'/blog'}>Blog</Link>
+          {/* <Link to={'/blog'}>Blog</Link> */}
         </div>
       </div>
     )

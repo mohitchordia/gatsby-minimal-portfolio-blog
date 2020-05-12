@@ -37,6 +37,10 @@ class Contact extends React.Component {
             )
           }
         })}
+        <form method="get" action="../assets/RESUME_MOHIT_CHORDIA.pdf">
+        <button type="submit">Download!</button>
+        </form>
+      
       </Layout>
     )
   }
