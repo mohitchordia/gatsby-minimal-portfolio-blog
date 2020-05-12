@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import get from 'lodash/get'
-
+import resume from '../assets/RESUME_MOHIT_CHORDIA.PDF'
 import Layout from '../components/Layout'
 import contactData from './../data/contact'
 
@@ -37,9 +37,9 @@ class Contact extends React.Component {
             )
           }
         })}
-        <form method="get" action="../assets/RESUME_MOHIT_CHORDIA.pdf">
-        <button type="submit">Download!</button>
-        </form>
+       
+        <a href={resume} download="RESUME_MOHIT_CHORDIA.PDF">Download</a>
+
       
       </Layout>
     )
