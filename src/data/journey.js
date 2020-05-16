@@ -6,33 +6,42 @@ import Image2 from './../assets/images/image2.jpg'
 import Image3 from './../assets/images/image3.jpg'
 
 const data = [
+
   {
-    date: 'November 15th 2012',
-    headline: 'Milestone 1',
-    description: `ulputate sapien nec sagittis aliquam
-    malesuada. Quis imperdiet massa tincidunt nunc pulvinar sapien et
-    ligula ullamcorper.`,
+    date: 'April 2020',
+    headline: 'First App',
+    description: `Published my first app(MY RAIPUR) as a individual android developer.
+    It was a Contract project, So delivered to my first client as well `,
     image: Image1,
     icon: <FaAward />,
   },
+  
   {
-    date: 'November 26th 2011',
-    headline: 'Milestone 2',
-    description: `ulputate sapien nec sagittis aliquam
-    malesuada. Quis imperdiet massa tincidunt nunc pulvinar sapien et
-    ligula ullamcorper.`,
-    image: Image2,
+    date: 'August 2018',
+    headline: 'First Job',
+    description: `From College placement I got placed in Accenture.
+    August 2018 was a month I started my journey as a Software Engineer`,
+    image: Image1,
+    icon: <FaAward />,
+  },
+
+
+  {
+    date: 'June 2018',
+    headline: 'Graduation',
+    description: `Completed 4 years of Engineering, 
+    Finally became an Engineer the reason I came to city of Bengaluru .`,
+    image: Image3,
     icon: <FaPaperPlane />,
   },
 
   {
-    date: 'June 6th 2011',
-    headline: 'Milestone 3',
-    description: `ulputate sapien nec sagittis aliquam
-    malesuada. Quis imperdiet massa tincidunt nunc pulvinar sapien et
-    ligula ullamcorper.`,
-    image: Image3,
-    icon: <FaPaperPlane />,
+    date: 'March 2018',
+    headline: 'First Internship',
+    description: `Got my first Internship in Boxx.ai, learned a lot,
+    got to first hand experience the startup culture`,
+    image: Image1,
+    icon: <FaAward />,
   },
 ]
 

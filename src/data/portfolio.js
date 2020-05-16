@@ -4,19 +4,20 @@ import Image3 from './../assets/images/image3.jpg'
 
 const data = [
   {
-    title: 'Project 1',
+    title: 'My Raipur',
     website: 'https://example.com',
-    description: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua. At augue
-    eget arcu dictum varius duis.`,
+    description: ` MY Raipur is a business directory App for business in Raipur. 
+    Made for a client(JB Marketing). Used Firebase Database To provide Realtime update
+    of the coming data in the app`,
     image: Image1,
   },
   {
-    title: 'Project 2',
+    title: 'Pronounce',
     website: 'https://example.com',
-    description: ` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua. At augue
-    eget arcu dictum varius duis.`,
+    description: ` Pronounce is a interactive way for people who are speaking Hindi, 
+    Learn English pronounciation as well a English writing. 
+    This app gives user the independence to know the common terms in English, 
+    Just by speaking equivalent Hindi input into there Mobile Device `,
     image: Image2,
   },
   {

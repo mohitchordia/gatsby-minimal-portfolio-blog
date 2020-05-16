@@ -1,8 +1,8 @@
 const data = {
-  twitter: 'https://twitter.com/_skris',
-  github: 'https://github.com/s-kris',
-  linkedin: 'https://www.linkedin.com/in/saikrishnam/',
-  email: null,
+  twitter: 'https://twitter.com/mohitchordia28',
+  github: 'https://github.com/mohitchordia',
+  linkedin: 'https://www.linkedin.com/in/mohit-chordia',
+  email: 'mohitrchordia@gmail.com',
 }
 
 export default data
