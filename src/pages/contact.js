@@ -38,7 +38,7 @@ class Contact extends React.Component {
           }
         })}
        
-        <a href={resume} download="RESUME_MOHIT_CHORDIA.pdf">Download</a>
+        <a href={resume} download="RESUME_MOHIT_CHORDIA.pdf">Click For MY CV</a>
 
       
       </Layout>

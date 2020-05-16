@@ -21,20 +21,18 @@ class SiteIndex extends React.Component {
           <meta name="description" content={siteDescription} />
         </Hemlet>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. At augue
-          eget arcu dictum varius duis. Vestibulum lectus mauris ultrices eros
-          in cursus turpis. Blandit volutpat maecenas volutpat blandit aliquam
-          etiam. Sagittis purus sit amet volutpat. Nullam ac tortor vitae purus
-          faucibus ornare suspendisse. Vulputate sapien nec sagittis aliquam
-          malesuada. Quis imperdiet massa tincidunt nunc pulvinar sapien et
-          ligula ullamcorper. Sit amet cursus sit amet dictum sit amet.
-          Malesuada proin libero nunc consequat interdum varius sit amet. Sed
-          egestas egestas fringilla phasellus faucibus scelerisque eleifend.
-          Habitasse platea dictumst quisque sagittis. Sem viverra aliquet eget
-          sit amet tellus cras adipiscing enim. Amet massa vitae tortor
-          condimentum lacinia quis vel eros donec.
-        </p>
+I'm Mohit Chordia - Software Engineer Who likes to build new stuff.
+I have confidence in my ability as a Engineer and a attitude to give 100% in my tasks , with the belief in life long approach
+of learning and growing myself, As a Engineer. 
+
+Progaming Languges that I have knowledge of are C++, Java, Kotlin, Python.
+As a Android Developer I have experience using Android SDK, Firebase, JSON, RESTful APIs, XML, Material Design, Dagger, Android Testing, Retrofit, RxJava, MLkit
+In field of Machine Learning things i have hands on experience are Python, Numpy, Pandas, MatplotLib, SciKitLearn, Tensorflow, OpenCV.
+Apart from this i have used Java to build Application on top of both Spring Core and Spring MVC.
+
+Ready to work with people who want to be as successful(according to Their defination) as I wanna be.
+So that we as people can help each other grow and reach our destination. 
+       </p>
         <img src={DisplayImage} alt={siteTitle} />
       </Layout>
     )
