@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-minimal-portfolio-blog',
-    author: 'Sai Krishna',
+    title: 'MohitChordia-portfolio',
+    author: 'Mohit Chordia',
     description:
-      'GatsbyJS starter for a minimal portfolio website with blog. Suitable for developers.',
-    siteUrl: 'https://saikrishna.me',
+      'GatsbyJS starter minimal portfolio website of Mohit Chordia.',
+    siteUrl: 'https://mohitchordia.site',
   },
   pathPrefix: '/',
   plugins: [
