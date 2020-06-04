@@ -1,5 +1,5 @@
 import Image1 from './../assets/images/image1.jpg'
-import Pronounce from './../assets/images/Pronounce.jpg'
+import Pronounce from './../assets/images/pronounce.jpg'
 import myraipur from './../assets/images/myraipur.jpg'
 
 const data = [
