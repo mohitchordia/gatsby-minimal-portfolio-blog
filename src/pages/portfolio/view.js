@@ -16,7 +16,7 @@ export class view extends Component {
     return (
       <Layout>
         <Helmet>
-          <title>{`${title} | Sai Krishna`}</title>
+          <title>{`${title} | Mohit Chordia`}</title>
         </Helmet>
         <Link to="/portfolio">&larr; back</Link>
         <h2>{title}</h2>
@@ -26,7 +26,7 @@ export class view extends Component {
           <br /> <br />
           {website && (
             <div>
-              Website:{' '}
+              Link :{' '}
               <a href={website} target="_new">
                 {website}
               </a>
