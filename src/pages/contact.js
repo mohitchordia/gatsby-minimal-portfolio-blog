@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import get from 'lodash/get'
-import resume from '../assets/RESUME_MOHIT_CHORDIA.pdf'
+import resume from '../assets/MOHIT_CHORDIA_CV.pdf'
 import Layout from '../components/Layout'
 import contactData from './../data/contact'
 
@@ -38,7 +38,7 @@ class Contact extends React.Component {
           }
         })}
        
-        {/* <a href={resume} download="RESUME_MOHIT_CHORDIA.pdf">Click For MY CV</a> */}
+         <a href={resume} download="MOHIT_CHORDIA_CV.pdf">Download MY RESUME</a> 
 
       
       </Layout>
