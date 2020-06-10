@@ -1,6 +1,7 @@
-import Image1 from './../assets/images/image1.jpg'
+import Image1 from './../assets/images/traffic.jpg'
 import Pronounce from './../assets/images/pronounce.jpg'
 import myraipur from './../assets/images/myraipur.jpg'
+import rps from './../assets/images/rps.png'
 
 const data = [
   {
@@ -19,6 +20,12 @@ const data = [
     This app gives user the independence to know the common terms in English, 
     Just by speaking equivalent Hindi or tamil input into there Mobile Device `,
     image: Pronounce,
+  },
+  {
+    title: 'Rock Paper Scissors Game',
+    website: 'https://play.google.com/store/apps/details?id=com.occapp.rps',
+    description: ` App to play traditional Rock Paper Scissors Game Against the Computer. `,
+    image: rps,
   },
   {
     title: 'Vehicle Anomaly Detection',
