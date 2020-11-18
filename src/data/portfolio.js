@@ -2,7 +2,7 @@ import Image1 from './../assets/images/traffic.jpg'
 import Pronounce from './../assets/images/pronounce.jpg'
 import myraipur from './../assets/images/myraipur.jpg'
 import rps from './../assets/images/rps.png'
-import vimal from './../assets/images/poster.jpg'
+import vimal from './../assets/images/Poster.jpg'
 
 const data = [
   {
