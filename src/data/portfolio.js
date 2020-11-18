@@ -2,8 +2,16 @@ import Image1 from './../assets/images/traffic.jpg'
 import Pronounce from './../assets/images/pronounce.jpg'
 import myraipur from './../assets/images/myraipur.jpg'
 import rps from './../assets/images/rps.png'
+import vimal from './../assets/images/poster.jpg'
 
 const data = [
+  {
+    title: 'Vimal Agencies',
+    website: 'https://play.google.com/store/apps/details?id=com.occapp.trial',
+    description: `This app is created as a Online V-Belt Selling Solution For 
+    Vimal Agencies who are Industrial belts Distributers and wanted to take there business digital. `,
+    image: vimal,
+  },
   {
     title: 'My Raipur',
     website: 'https://play.google.com/store/apps/details?id=com.occapp.myraipurcg04',
